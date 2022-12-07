@@ -7,6 +7,7 @@ Member:
     boolean isContestSwimmer
     boolean isPassive
 
+test
     TODO skal member extends/implement nogle STATS (variable/methods) til at rank dem
 
 UI
